@@ -22,7 +22,7 @@
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
-    "setup": "git remote remove origin && npm install && npm run start"
+    "setup": "git remote remove origin && npm install --prefer-offline --no-audit && npm run start"
   },
   "eslintConfig": {
     "extends": [
