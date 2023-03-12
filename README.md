@@ -1,5 +1,19 @@
 # React App Template with Typescript & SASS
 
+## How to use it
+```sh
+git clone https://github.com/MrMohammedMath/react-template.git
+
+ mv react-template/ <project-name>/
+
+cd <project-name>
+
+# in package.json change the name to <prokect name>
+
+npm run setup
+
+```
+
 
 ## Available Scripts
 
@@ -7,7 +21,7 @@ In the project directory, you can run:
 
 ### `npm setup`
 
-Open code editor then remove the remote origin then install dependencies then open the development server.
+remove the remote origin then install dependencies then open the development server.
 
 ### `npm start`
 
