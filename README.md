@@ -7,7 +7,7 @@ In the project directory, you can run:
 
 ### `npm setup`
 
-Open code editor then install dependencies then open the development server.
+Open code editor then remove the remote origin then install dependencies then open the development server.
 
 ### `npm start`
 
