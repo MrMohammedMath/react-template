@@ -1,10 +1,13 @@
-# Getting Started with Create React App
+# React App Template with Typescript & SASS
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
 In the project directory, you can run:
+
+### `npm setup`
+
+Open code editor then install dependencies then open the development server.
 
 ### `npm start`
 
