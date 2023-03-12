@@ -4,11 +4,11 @@
 ```sh
 git clone https://github.com/MrMohammedMath/react-template.git
 
- mv react-template/ <project-name>/
+mv react-template/ <project-name>/
 
 cd <project-name>
 
-# in package.json change the name to <prokect name>
+# in package.json change the name to <project name>
 
 npm run setup
 
